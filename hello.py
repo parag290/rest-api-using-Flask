@@ -1,3 +1,9 @@
+"""
+To run this code :
+$ export FLASK_APP=hello.py
+$ flask run
+"""
+
 from flask import Flask
 app = Flask(__name__)
 
